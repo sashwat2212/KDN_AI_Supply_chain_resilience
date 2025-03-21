@@ -1,0 +1,3602 @@
+[
+    {
+        "timestamp": "2025-03-21T07:42:35.798912+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                24.5,
+                -122.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_0_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_0_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.798957+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                24.5,
+                -120.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_1_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_1_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.798971+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                24.5,
+                -117.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_2_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_2_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.798978+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                24.5,
+                -115.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_3_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_3_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.798985+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                24.5,
+                -112.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_4_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_4_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.798992+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                24.5,
+                -110.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_5_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_5_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799000+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                24.5,
+                -107.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_6_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_6_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799007+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                24.5,
+                -105.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_7_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_7_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799014+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                24.5,
+                -102.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_8_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_8_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799022+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                24.5,
+                -100.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_9_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_9_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799030+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                24.5,
+                -97.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_10_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_10_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799038+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                24.5,
+                -95.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_11_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_11_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799046+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                24.5,
+                -92.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_12_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_12_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799055+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                24.5,
+                -90.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_13_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_13_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799063+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                24.5,
+                -87.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_14_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_14_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799071+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                24.5,
+                -85.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_15_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_15_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799081+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                24.5,
+                -82.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_16_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_16_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799090+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                24.5,
+                -80.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_17_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_17_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799099+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                24.5,
+                -77.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_18_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_18_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799109+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                24.5,
+                -75.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_19_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_19_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799119+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                24.5,
+                -72.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_20_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_20_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799129+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                24.5,
+                -70.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_21_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_21_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799140+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                24.5,
+                -67.5,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_22_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_22_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799150+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                24.5,
+                -65.0,
+                27.0
+            ],
+            "lat": 25.75,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_23_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_23_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799162+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                27.0,
+                -122.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_24_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_24_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799174+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                27.0,
+                -120.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_25_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_25_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799186+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                27.0,
+                -117.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_26_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_26_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799198+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                27.0,
+                -115.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_27_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_27_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799210+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                27.0,
+                -112.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_28_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_28_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799222+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                27.0,
+                -110.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_29_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_29_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799233+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                27.0,
+                -107.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_30_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_30_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799246+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                27.0,
+                -105.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_31_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_31_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799259+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                27.0,
+                -102.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_32_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_32_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799273+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                27.0,
+                -100.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_33_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_33_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799286+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                27.0,
+                -97.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_34_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_34_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799299+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                27.0,
+                -95.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_35_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_35_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799313+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                27.0,
+                -92.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_36_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_36_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799327+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                27.0,
+                -90.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_37_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_37_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799342+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                27.0,
+                -87.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_38_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_38_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799356+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                27.0,
+                -85.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_39_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_39_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799371+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                27.0,
+                -82.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_40_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_40_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799387+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                27.0,
+                -80.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_41_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_41_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799402+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                27.0,
+                -77.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_42_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_42_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799417+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                27.0,
+                -75.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_43_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_43_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799432+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                27.0,
+                -72.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_44_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_44_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799447+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                27.0,
+                -70.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_45_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_45_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799463+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                27.0,
+                -67.5,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_46_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_46_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799479+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                27.0,
+                -65.0,
+                29.5
+            ],
+            "lat": 28.25,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_47_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_47_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799495+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                29.5,
+                -122.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_48_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_48_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799512+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                29.5,
+                -120.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_49_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_49_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799528+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                29.5,
+                -117.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_50_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_50_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799545+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                29.5,
+                -115.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_51_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_51_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799563+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                29.5,
+                -112.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_52_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_52_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799582+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                29.5,
+                -110.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_53_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_53_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799600+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                29.5,
+                -107.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_54_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_54_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799618+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                29.5,
+                -105.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_55_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_55_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799635+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                29.5,
+                -102.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_56_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_56_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799655+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                29.5,
+                -100.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_57_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_57_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799673+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                29.5,
+                -97.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_58_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_58_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799692+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                29.5,
+                -95.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_59_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_59_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799711+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                29.5,
+                -92.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_60_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_60_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799731+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                29.5,
+                -90.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_61_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_61_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799750+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                29.5,
+                -87.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_62_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_62_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799770+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                29.5,
+                -85.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_63_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_63_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799791+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                29.5,
+                -82.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_64_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_64_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799815+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                29.5,
+                -80.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_65_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_65_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799836+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                29.5,
+                -77.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_66_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_66_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799856+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                29.5,
+                -75.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_67_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_67_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799876+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                29.5,
+                -72.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_68_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_68_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799897+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                29.5,
+                -70.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_69_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_69_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799918+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                29.5,
+                -67.5,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_70_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_70_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799939+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                29.5,
+                -65.0,
+                32.0
+            ],
+            "lat": 30.75,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_71_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_71_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799960+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                32.0,
+                -122.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_72_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_72_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.799982+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                32.0,
+                -120.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_73_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_73_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800004+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                32.0,
+                -117.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_74_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_74_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800026+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                32.0,
+                -115.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_75_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_75_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800048+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                32.0,
+                -112.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_76_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_76_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800073+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                32.0,
+                -110.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_77_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_77_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800096+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                32.0,
+                -107.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_78_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_78_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800119+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                32.0,
+                -105.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_79_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_79_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800142+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                32.0,
+                -102.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_80_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_80_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800166+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                32.0,
+                -100.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_81_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_81_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800190+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                32.0,
+                -97.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_82_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_82_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800215+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                32.0,
+                -95.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_83_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_83_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800240+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                32.0,
+                -92.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_84_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_84_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800265+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                32.0,
+                -90.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_85_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_85_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800290+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                32.0,
+                -87.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_86_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_86_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800315+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                32.0,
+                -85.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_87_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_87_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800341+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                32.0,
+                -82.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_88_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_88_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800367+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                32.0,
+                -80.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_89_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_89_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800393+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                32.0,
+                -77.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_90_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_90_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800419+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                32.0,
+                -75.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_91_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_91_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800446+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                32.0,
+                -72.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_92_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_92_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800475+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                32.0,
+                -70.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_93_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_93_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800502+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                32.0,
+                -67.5,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_94_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_94_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800529+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                32.0,
+                -65.0,
+                34.5
+            ],
+            "lat": 33.25,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_95_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_95_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800557+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                34.5,
+                -122.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_96_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_96_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800586+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                34.5,
+                -120.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_97_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_97_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800613+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                34.5,
+                -117.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_98_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_98_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800642+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                34.5,
+                -115.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_99_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_99_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800671+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                34.5,
+                -112.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_100_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_100_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800700+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                34.5,
+                -110.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_101_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_101_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800730+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                34.5,
+                -107.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_102_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_102_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800760+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                34.5,
+                -105.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_103_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_103_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800790+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                34.5,
+                -102.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_104_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_104_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800821+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                34.5,
+                -100.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_105_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_105_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800851+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                34.5,
+                -97.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_106_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_106_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800880+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                34.5,
+                -95.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_107_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_107_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800911+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                34.5,
+                -92.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_108_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_108_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800945+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                34.5,
+                -90.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_109_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_109_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.800977+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                34.5,
+                -87.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_110_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_110_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801008+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                34.5,
+                -85.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_111_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_111_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801040+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                34.5,
+                -82.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_112_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_112_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801072+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                34.5,
+                -80.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_113_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_113_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801104+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                34.5,
+                -77.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_114_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_114_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801135+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                34.5,
+                -75.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_115_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_115_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801168+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                34.5,
+                -72.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_116_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_116_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801201+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                34.5,
+                -70.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_117_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_117_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801234+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                34.5,
+                -67.5,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_118_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_118_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801268+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                34.5,
+                -65.0,
+                37.0
+            ],
+            "lat": 35.75,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_119_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_119_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801302+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                37.0,
+                -122.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_120_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_120_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801337+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                37.0,
+                -120.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_121_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_121_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801372+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                37.0,
+                -117.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_122_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_122_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801407+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                37.0,
+                -115.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_123_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_123_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801442+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                37.0,
+                -112.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_124_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_124_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801477+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                37.0,
+                -110.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_125_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_125_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801513+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                37.0,
+                -107.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_126_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_126_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801549+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                37.0,
+                -105.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_127_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_127_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801584+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                37.0,
+                -102.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_128_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_128_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801623+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                37.0,
+                -100.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_129_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_129_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801658+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                37.0,
+                -97.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_130_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_130_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801695+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                37.0,
+                -95.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_131_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_131_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801731+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                37.0,
+                -92.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_132_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_132_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801772+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                37.0,
+                -90.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_133_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_133_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801809+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                37.0,
+                -87.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_134_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_134_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801846+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                37.0,
+                -85.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_135_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_135_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801884+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                37.0,
+                -82.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_136_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_136_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801923+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                37.0,
+                -80.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_137_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_137_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.801961+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                37.0,
+                -77.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_138_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_138_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802000+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                37.0,
+                -75.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_139_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_139_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802040+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                37.0,
+                -72.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_140_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_140_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802080+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                37.0,
+                -70.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_141_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_141_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802119+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                37.0,
+                -67.5,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_142_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_142_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802160+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                37.0,
+                -65.0,
+                39.5
+            ],
+            "lat": 38.25,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_143_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_143_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802199+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                39.5,
+                -122.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_144_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_144_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802241+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                39.5,
+                -120.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_145_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_145_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802281+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                39.5,
+                -117.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_146_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_146_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802345+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                39.5,
+                -115.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_147_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_147_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802388+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                39.5,
+                -112.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_148_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_148_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802469+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                39.5,
+                -110.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_149_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_149_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802513+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                39.5,
+                -107.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_150_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_150_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802554+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                39.5,
+                -105.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_151_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_151_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802596+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                39.5,
+                -102.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_152_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_152_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802640+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                39.5,
+                -100.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_153_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_153_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802682+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                39.5,
+                -97.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_154_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_154_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802724+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                39.5,
+                -95.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_155_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_155_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802767+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                39.5,
+                -92.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_156_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_156_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802811+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                39.5,
+                -90.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_157_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_157_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802855+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                39.5,
+                -87.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_158_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_158_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802899+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                39.5,
+                -85.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_159_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_159_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.802959+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                39.5,
+                -82.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_160_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_160_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803005+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                39.5,
+                -80.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_161_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_161_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803050+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                39.5,
+                -77.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_162_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_162_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803095+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                39.5,
+                -75.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_163_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_163_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803140+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                39.5,
+                -72.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_164_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_164_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803185+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                39.5,
+                -70.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_165_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_165_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803231+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                39.5,
+                -67.5,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_166_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_166_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803276+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                39.5,
+                -65.0,
+                42.0
+            ],
+            "lat": 40.75,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_167_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_167_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803322+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                42.0,
+                -122.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_168_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_168_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803370+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                42.0,
+                -120.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_169_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_169_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803416+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                42.0,
+                -117.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_170_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_170_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803463+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                42.0,
+                -115.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_171_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_171_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803511+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                42.0,
+                -112.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_172_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_172_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803569+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                42.0,
+                -110.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_173_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_173_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803617+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                42.0,
+                -107.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_174_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_174_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803666+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                42.0,
+                -105.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_175_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_175_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803714+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                42.0,
+                -102.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_176_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_176_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803763+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                42.0,
+                -100.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_177_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_177_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803811+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                42.0,
+                -97.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_178_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_178_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803861+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                42.0,
+                -95.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_179_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_179_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803910+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                42.0,
+                -92.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_180_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_180_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.803961+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                42.0,
+                -90.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_181_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_181_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804011+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                42.0,
+                -87.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_182_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_182_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804062+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                42.0,
+                -85.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_183_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_183_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804113+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                42.0,
+                -82.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_184_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_184_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804164+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                42.0,
+                -80.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_185_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_185_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804215+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                42.0,
+                -77.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_186_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_186_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804267+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                42.0,
+                -75.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_187_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_187_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804319+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                42.0,
+                -72.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_188_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_188_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804372+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                42.0,
+                -70.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_189_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_189_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804425+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                42.0,
+                -67.5,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_190_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_190_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804479+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                42.0,
+                -65.0,
+                44.5
+            ],
+            "lat": 43.25,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_191_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_191_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804533+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                44.5,
+                -122.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_192_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_192_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804590+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                44.5,
+                -120.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_193_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_193_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804766+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                44.5,
+                -117.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_194_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_194_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804821+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                44.5,
+                -115.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_195_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_195_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804850+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                44.5,
+                -112.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_196_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_196_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804878+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                44.5,
+                -110.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_197_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_197_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804905+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                44.5,
+                -107.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_198_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_198_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804932+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                44.5,
+                -105.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_199_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_199_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804959+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                44.5,
+                -102.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_200_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_200_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.804987+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                44.5,
+                -100.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_201_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_201_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805014+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                44.5,
+                -97.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_202_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_202_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805042+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                44.5,
+                -95.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_203_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_203_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805070+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                44.5,
+                -92.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_204_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_204_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805097+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                44.5,
+                -90.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_205_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_205_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805125+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                44.5,
+                -87.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_206_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_206_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805152+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                44.5,
+                -85.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_207_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_207_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805180+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                44.5,
+                -82.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_208_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_208_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805208+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                44.5,
+                -80.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_209_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_209_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805236+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                44.5,
+                -77.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_210_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_210_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805265+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                44.5,
+                -75.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_211_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_211_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805293+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                44.5,
+                -72.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_212_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_212_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805322+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                44.5,
+                -70.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_213_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_213_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805350+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                44.5,
+                -67.5,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_214_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_214_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805378+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                44.5,
+                -65.0,
+                47.0
+            ],
+            "lat": 45.75,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_215_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_215_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805407+00:00",
+        "bbox": {
+            "bbox": [
+                -125.0,
+                47.0,
+                -122.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -123.75
+        },
+        "ndvi_image": "satellite_data/bbox_216_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_216_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805436+00:00",
+        "bbox": {
+            "bbox": [
+                -122.5,
+                47.0,
+                -120.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -121.25
+        },
+        "ndvi_image": "satellite_data/bbox_217_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_217_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805465+00:00",
+        "bbox": {
+            "bbox": [
+                -120.0,
+                47.0,
+                -117.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -118.75
+        },
+        "ndvi_image": "satellite_data/bbox_218_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_218_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805496+00:00",
+        "bbox": {
+            "bbox": [
+                -117.5,
+                47.0,
+                -115.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -116.25
+        },
+        "ndvi_image": "satellite_data/bbox_219_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_219_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805526+00:00",
+        "bbox": {
+            "bbox": [
+                -115.0,
+                47.0,
+                -112.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -113.75
+        },
+        "ndvi_image": "satellite_data/bbox_220_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_220_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805555+00:00",
+        "bbox": {
+            "bbox": [
+                -112.5,
+                47.0,
+                -110.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -111.25
+        },
+        "ndvi_image": "satellite_data/bbox_221_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_221_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805586+00:00",
+        "bbox": {
+            "bbox": [
+                -110.0,
+                47.0,
+                -107.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -108.75
+        },
+        "ndvi_image": "satellite_data/bbox_222_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_222_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805616+00:00",
+        "bbox": {
+            "bbox": [
+                -107.5,
+                47.0,
+                -105.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -106.25
+        },
+        "ndvi_image": "satellite_data/bbox_223_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_223_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805647+00:00",
+        "bbox": {
+            "bbox": [
+                -105.0,
+                47.0,
+                -102.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -103.75
+        },
+        "ndvi_image": "satellite_data/bbox_224_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_224_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805678+00:00",
+        "bbox": {
+            "bbox": [
+                -102.5,
+                47.0,
+                -100.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -101.25
+        },
+        "ndvi_image": "satellite_data/bbox_225_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_225_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805709+00:00",
+        "bbox": {
+            "bbox": [
+                -100.0,
+                47.0,
+                -97.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -98.75
+        },
+        "ndvi_image": "satellite_data/bbox_226_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_226_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805740+00:00",
+        "bbox": {
+            "bbox": [
+                -97.5,
+                47.0,
+                -95.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -96.25
+        },
+        "ndvi_image": "satellite_data/bbox_227_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_227_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805790+00:00",
+        "bbox": {
+            "bbox": [
+                -95.0,
+                47.0,
+                -92.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -93.75
+        },
+        "ndvi_image": "satellite_data/bbox_228_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_228_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805824+00:00",
+        "bbox": {
+            "bbox": [
+                -92.5,
+                47.0,
+                -90.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -91.25
+        },
+        "ndvi_image": "satellite_data/bbox_229_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_229_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805856+00:00",
+        "bbox": {
+            "bbox": [
+                -90.0,
+                47.0,
+                -87.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -88.75
+        },
+        "ndvi_image": "satellite_data/bbox_230_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_230_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805894+00:00",
+        "bbox": {
+            "bbox": [
+                -87.5,
+                47.0,
+                -85.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -86.25
+        },
+        "ndvi_image": "satellite_data/bbox_231_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_231_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805926+00:00",
+        "bbox": {
+            "bbox": [
+                -85.0,
+                47.0,
+                -82.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -83.75
+        },
+        "ndvi_image": "satellite_data/bbox_232_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_232_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.805976+00:00",
+        "bbox": {
+            "bbox": [
+                -82.5,
+                47.0,
+                -80.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -81.25
+        },
+        "ndvi_image": "satellite_data/bbox_233_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_233_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806009+00:00",
+        "bbox": {
+            "bbox": [
+                -80.0,
+                47.0,
+                -77.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -78.75
+        },
+        "ndvi_image": "satellite_data/bbox_234_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_234_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806041+00:00",
+        "bbox": {
+            "bbox": [
+                -77.5,
+                47.0,
+                -75.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -76.25
+        },
+        "ndvi_image": "satellite_data/bbox_235_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_235_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806072+00:00",
+        "bbox": {
+            "bbox": [
+                -75.0,
+                47.0,
+                -72.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -73.75
+        },
+        "ndvi_image": "satellite_data/bbox_236_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_236_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806103+00:00",
+        "bbox": {
+            "bbox": [
+                -72.5,
+                47.0,
+                -70.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -71.25
+        },
+        "ndvi_image": "satellite_data/bbox_237_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_237_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806135+00:00",
+        "bbox": {
+            "bbox": [
+                -70.0,
+                47.0,
+                -67.5,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -68.75
+        },
+        "ndvi_image": "satellite_data/bbox_238_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_238_NDWI.png"
+    },
+    {
+        "timestamp": "2025-03-21T07:42:35.806214+00:00",
+        "bbox": {
+            "bbox": [
+                -67.5,
+                47.0,
+                -65.0,
+                49.5
+            ],
+            "lat": 48.25,
+            "lon": -66.25
+        },
+        "ndvi_image": "satellite_data/bbox_239_NDVI.png",
+        "ndwi_image": "satellite_data/bbox_239_NDWI.png"
+    }
+]
