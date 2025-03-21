@@ -1,30 +1,58 @@
 import paho.mqtt.client as mqtt
 import json
+import os
 
-# MQTT Broker Configuration
+# MQTT Configuration
 MQTT_BROKER = "localhost"
 MQTT_PORT = 1883
 MQTT_TOPIC = "supply_chain/iot_data"
 
-# Callback when connected to MQTT broker
+# Directory to save received data
+DATA_DIR = "iot_data"
+os.makedirs(DATA_DIR, exist_ok=True)
+
+DATA_FILE = os.path.join(DATA_DIR, "iot_sensor_data.json")
+
+def save_data(data):
+    """Append received IoT data to a local JSON file."""
+    try:
+        if os.path.exists(DATA_FILE):
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+        else:
+            existing_data = []
+
+        existing_data.append(data)
+
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(existing_data, f, indent=4)
+        
+        print(f"[✅] Data saved to {DATA_FILE}")
+
+    except Exception as e:
+        print(f"Error saving data: {e}")
+
 def on_connect(client, userdata, flags, reason_code, properties):
+    """Callback when connected to MQTT broker."""
     print(f"Connected to MQTT Broker with reason code {reason_code}")
     client.subscribe(MQTT_TOPIC)
 
-# Callback when a message is received
 def on_message(client, userdata, msg):
+    """Callback when a message is received."""
     try:
         data = json.loads(msg.payload.decode("utf-8"))
         print(f"Received IoT Data: {data}")
+        save_data(data)
     except Exception as e:
         print(f"Error processing message: {e}")
 
-# Create MQTT client using version 2 API
+# Create MQTT client
 client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 
 # Assign callbacks
 client.on_connect = on_connect
 client.on_message = on_message
 
+# Connect to broker
 client.connect(MQTT_BROKER, MQTT_PORT, 60)
 client.loop_forever()
