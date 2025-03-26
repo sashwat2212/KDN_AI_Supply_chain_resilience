@@ -14,7 +14,6 @@ os.makedirs(DATA_DIR, exist_ok=True)
 DATA_FILE = os.path.join(DATA_DIR, "iot_sensor_data.json")
 
 def save_data(data):
-    """Append received IoT data to a local JSON file."""
     try:
         if os.path.exists(DATA_FILE):
             with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -27,18 +26,16 @@ def save_data(data):
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(existing_data, f, indent=4)
         
-        print(f"[✅] Data saved to {DATA_FILE}")
+        print(f" Data saved to {DATA_FILE}")
 
     except Exception as e:
         print(f"Error saving data: {e}")
 
 def on_connect(client, userdata, flags, reason_code, properties):
-    """Callback when connected to MQTT broker."""
     print(f"Connected to MQTT Broker with reason code {reason_code}")
     client.subscribe(MQTT_TOPIC)
 
 def on_message(client, userdata, msg):
-    """Callback when a message is received."""
     try:
         data = json.loads(msg.payload.decode("utf-8"))
         print(f"Received IoT Data: {data}")
@@ -46,13 +43,13 @@ def on_message(client, userdata, msg):
     except Exception as e:
         print(f"Error processing message: {e}")
 
-# Create MQTT client
+
 client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 
 # Assign callbacks
 client.on_connect = on_connect
 client.on_message = on_message
 
-# Connect to broker
+
 client.connect(MQTT_BROKER, MQTT_PORT, 60)
 client.loop_forever()

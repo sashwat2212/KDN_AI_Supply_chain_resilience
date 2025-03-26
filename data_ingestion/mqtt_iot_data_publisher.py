@@ -19,7 +19,6 @@ lon_step = 2.5
 geolocator = Nominatim(user_agent="supply_chain_ai")
 
 def get_location(lat, lon):
-    """Fetch location details for a given latitude and longitude."""
     try:
         location = geolocator.reverse((lat, lon), exactly_one=True)
         if location and location.raw:
@@ -34,7 +33,6 @@ def get_location(lat, lon):
     return {"city": "Unknown", "state": "Unknown", "country": "Unknown"}
 
 def generate_sensor_data(lat_range, lon_range):
-    """Generate sensor data within a given bounding box."""
     latitude = round(random.uniform(lat_range[0], lat_range[1]), 6)
     longitude = round(random.uniform(lon_range[0], lon_range[1]), 6)
     
@@ -53,7 +51,6 @@ def generate_sensor_data(lat_range, lon_range):
     return data
 
 def publish_sensor_data():
-    """Loop through each bounding box and publish sensor data."""
     client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
     client.connect(BROKER, PORT, 60)
 

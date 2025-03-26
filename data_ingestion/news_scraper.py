@@ -9,7 +9,6 @@ load_dotenv()
 API_KEY = os.getenv("newsapi_api")
 
 def fetch_news():
-    """Fetches news articles from NewsAPI based on supply chain risk topics."""
     url = f"https://newsapi.org/v2/everything?q=geopolitical OR cyber OR climate&language=en&sortBy=publishedAt&apiKey={API_KEY}"
     response = requests.get(url)
     
@@ -22,7 +21,6 @@ def fetch_news():
         return []
 
 def extract_full_article(url):
-    """Extracts full content from an article URL using newspaper3k."""
     try:
         article = Article(url)
         article.download()
@@ -33,7 +31,6 @@ def extract_full_article(url):
         return None
 
 def scrape_and_store_news():
-    """Fetches news articles and extracts full text."""
     news_articles = fetch_news()
     
     extracted_articles = []
@@ -56,11 +53,11 @@ def scrape_and_store_news():
                 "full_text": full_text
             })
     
-    # Save extracted articles to JSON
+
     with open("extracted_news.json", "w", encoding="utf-8") as f:
         json.dump(extracted_articles, f, indent=4)
     
-    print(f"✅ Successfully saved {len(extracted_articles)} articles to extracted_news.json")
+    print(f"Successfully saved {len(extracted_articles)} articles to extracted_news.json")
 
-# Run the scraper
+
 scrape_and_store_news()

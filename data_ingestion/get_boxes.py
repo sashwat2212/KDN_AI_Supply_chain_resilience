@@ -24,4 +24,4 @@ for lat in np.arange(lat_min, lat_max, lat_step):
 with open("us_grid_bboxes.json", "w") as f:
     json.dump(bboxes, f, indent=4)
 
-print(f"[✅] Generated {len(bboxes)} bounding boxes for the US.")
+print(f"Generated {len(bboxes)} bounding boxes for the US.")
