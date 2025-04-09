@@ -11,3 +11,9 @@ venv_tens/
 notebooks/DataCoSupplyChainDatasetRefined.csv
 notebooks/weather_data.csv
 pharmaceutical_supply_chain.csv
+venv/
+tf_env/
+venv_tens/
+notebooks/DataCoSupplyChainDatasetRefined.csv
+notebooks/weather_data.csv
+pharmaceutical_supply_chain.csv
