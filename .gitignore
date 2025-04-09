@@ -1,1 +1,7 @@
 .env/
+venv/
+tf_env/
+venv_tf/
+notebooks/DataCoSupplyChainDatasetRefined.csv/
+notebooks/weather_data.csv/
+pharmaceutical_supply_chain.csv/
